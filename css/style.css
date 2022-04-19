@@ -12,7 +12,8 @@ a.common-btn {
   line-height: 60px;
   text-align: center;
   border-radius: 5px;
-  background: pink;
+  /* background: #0055b8; */
+  background: pink; /* 연습 삼아 컬러 수정 */
 }
 
 /* 메인 배너 */
